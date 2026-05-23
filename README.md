@@ -44,3 +44,5 @@
 22. [科技爱好者周刊](https://github.com/ruanyf/weekly)
 
 23. [开源大模型食用指南](https://github.com/datawhalechina/self-llm)
+
+24. [Go 程序员面试笔试宝典](https://github.com/golang-design/go-questions)
