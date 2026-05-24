@@ -46,3 +46,5 @@
 23. [开源大模型食用指南](https://github.com/datawhalechina/self-llm)
 
 24. [Go 程序员面试笔试宝典](https://github.com/golang-design/go-questions)
+
+25. [动手学大模型](https://github.com/Lordog/dive-into-llms)
