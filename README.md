@@ -51,3 +51,4 @@
 
 26. [The Go Programming Language](http://books.studygolang.com/gopl-zh/)
 
+27. [Falsehoods Programmers Believe in](https://github.com/kdeldycke/awesome-falsehood)
