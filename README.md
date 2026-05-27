@@ -52,3 +52,5 @@
 26. [The Go Programming Language](http://books.studygolang.com/gopl-zh/)
 
 27. [Falsehoods Programmers Believe in](https://github.com/kdeldycke/awesome-falsehood)
+
+28. [Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
