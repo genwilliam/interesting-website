@@ -54,3 +54,7 @@
 27. [Falsehoods Programmers Believe in](https://github.com/kdeldycke/awesome-falsehood)
 
 28. [Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
+29. [A list of awesome beginners-friendly projects.](https://github.com/MunGell/awesome-for-beginners)
+
+
