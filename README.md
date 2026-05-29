@@ -57,4 +57,6 @@
 
 29. [A list of awesome beginners-friendly projects.](https://github.com/MunGell/awesome-for-beginners)
 
+30. [Curated list of project-based tutorials](https://github.com/practical-tutorials/project-based-learning)
+
 
