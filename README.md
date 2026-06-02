@@ -64,3 +64,5 @@
 32. [bash 的问题](https://mywiki.wooledge.org/BashPitfalls)
 
 33. [go语言圣经](http://books.studygolang.com/gopl-zh/ch8/ch8-05.html)
+
+34. [free-for-dev](https://github.com/ripienaar/free-for-dev)
