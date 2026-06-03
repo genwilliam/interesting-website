@@ -66,3 +66,5 @@
 33. [go语言圣经](http://books.studygolang.com/gopl-zh/ch8/ch8-05.html)
 
 34. [free-for-dev](https://github.com/ripienaar/free-for-dev)
+
+35. [linux教程](https://ryanstutorials.net/linuxtutorial/)
