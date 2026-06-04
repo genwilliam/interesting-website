@@ -68,3 +68,5 @@
 34. [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
 35. [linux教程](https://ryanstutorials.net/linuxtutorial/)
+
+36. [learn-anything](https://learn-anything.xyz/)
