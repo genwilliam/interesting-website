@@ -72,3 +72,5 @@
 36. [learn-anything](https://learn-anything.xyz/)
 
 37. [learn-go-with-tests](https://studygolang.gitbook.io/learn-go-with-tests)
+
+28. [经典的历史、政治、心理、哲学、数学、计算机方面电子书](https://github.com/kska32/ebooks)
