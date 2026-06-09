@@ -76,3 +76,5 @@
 38. [经典的历史、政治、心理、哲学、数学、计算机方面电子书](https://github.com/kska32/ebooks)
 
 39. [openclaw](https://openclaw.ai/)
+
+40. [Stealth Chromium that passes every bot detection test](https://github.com/CloakHQ/cloakbrowser)
