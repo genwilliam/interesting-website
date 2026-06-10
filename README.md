@@ -78,3 +78,5 @@
 39. [openclaw](https://openclaw.ai/)
 
 40. [Stealth Chromium that passes every bot detection test](https://github.com/CloakHQ/cloakbrowser)
+
+41. [js任务、微任务、队列和日程安排](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
