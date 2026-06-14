@@ -55,6 +55,7 @@
 | 25 | [free-for-dev](https://github.com/ripienaar/free-for-dev) | 开发者免费资源清单 |
 | 26 | [Apple 官方 Docker Desktop](https://github.com/apple/container) | Apple 开源的容器运行时 |
 | 27 | [Falsehoods Programmers Believe in](https://github.com/kdeldycke/awesome-falsehood) | 程序员常犯的错误观念合集 |
+| 44 | [DevDocs](https://devdocs.io/) | 多语言 API 文档聚合搜索，支持离线浏览 |
 
 ## 编程学习 & 综合资源
 
