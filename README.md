@@ -67,6 +67,7 @@
 | 5 | [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | 程序员必逛网站 |
 | 6 | [learn-anything](https://learn-anything.xyz/) | 知识图谱学习引擎 |
 | 7 | [科技爱好者周刊](https://github.com/ruanyf/weekly) | 阮一峰的技术周刊 |
+| 8 | [roadmap.sh](https://roadmap.sh/) | 开发者学习路线图，涵盖各技术栈的成长路径 |
 
 ## 电子书 & 阅读
 
