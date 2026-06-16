@@ -55,6 +55,7 @@
 | 5 | [Apple 官方 Docker Desktop](https://github.com/apple/container) | Apple 开源的容器运行时 |
 | 6 | [Falsehoods Programmers Believe in](https://github.com/kdeldycke/awesome-falsehood) | 程序员常犯的错误观念合集 |
 | 7 | [DevDocs](https://devdocs.io/) | 多语言 API 文档聚合搜索，支持离线浏览 |
+| 8 | [JSON Crack](https://jsoncrack.com/) | 将 JSON/YAML/XML/CSV 数据可视化为交互式关系图 |
 
 ## 编程学习 & 综合资源
 
