@@ -12,6 +12,7 @@
 | 2 | [Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line) | 命令行艺术 — 一页掌握命令行 |
 | 3 | [Bash 常见陷阱](https://mywiki.wooledge.org/BashPitfalls) | Bash 编程中容易踩的坑 |
 | 4 | [Linux 教程](https://ryanstutorials.net/linuxtutorial/) | 入门友好的 Linux 教程 |
+| 5 | [cheat.sh](https://cheat.sh/) | 命令行速查表，curl 即可获取任何命令的用法示例 |
 
 ## Go 语言
 
