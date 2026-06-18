@@ -57,6 +57,7 @@
 | 6 | [Falsehoods Programmers Believe in](https://github.com/kdeldycke/awesome-falsehood) | 程序员常犯的错误观念合集 |
 | 7 | [DevDocs](https://devdocs.io/) | 多语言 API 文档聚合搜索，支持离线浏览 |
 | 8 | [JSON Crack](https://jsoncrack.com/) | 将 JSON/YAML/XML/CSV 数据可视化为交互式关系图 |
+| 9 | [regex101](https://regex101.com/) | 正则表达式在线测试与调试，支持多语言语法及详细解释 |
 
 ## 编程学习 & 综合资源
 
