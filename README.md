@@ -58,6 +58,7 @@
 | 7 | [DevDocs](https://devdocs.io/) | 多语言 API 文档聚合搜索，支持离线浏览 |
 | 8 | [JSON Crack](https://jsoncrack.com/) | 将 JSON/YAML/XML/CSV 数据可视化为交互式关系图 |
 | 9 | [regex101](https://regex101.com/) | 正则表达式在线测试与调试，支持多语言语法及详细解释 |
+| 10 | [Hoppscotch](https://hoppscotch.io/) | 开源 API 开发生态系统，Postman 的开源替代品，支持 Web/桌面/CLI |
 
 ## 编程学习 & 综合资源
 
