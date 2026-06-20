@@ -34,6 +34,12 @@
 | 4 | [Cloudflare: 什么是 DNS](https://www.cloudflare.com/learning/dns/what-is-dns/) | DNS 科普 |
 | 5 | [JS 任务、微任务、队列和日程安排](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) | 浏览器事件循环详解 |
 
+## 算法与数据结构
+
+| # | 链接 | 说明 |
+|---|------|------|
+| 1 | [VisuAlgo](https://visualgo.net/en) | 新加坡国立大学出品，通过动画可视化数据结构和算法 |
+
 ## 大模型 & AI
 
 | # | 链接 | 说明 |
