@@ -13,6 +13,7 @@
 | 3 | [Bash 常见陷阱](https://mywiki.wooledge.org/BashPitfalls) | Bash 编程中容易踩的坑 |
 | 4 | [Linux 教程](https://ryanstutorials.net/linuxtutorial/) | 入门友好的 Linux 教程 |
 | 5 | [cheat.sh](https://cheat.sh/) | 命令行速查表，curl 即可获取任何命令的用法示例 |
+| 6 | [explainshell.com](https://explainshell.com/) | 输入命令行，自动解析并匹配每个参数对应的 man 帮助文本 |
 
 ## Go 语言
 
