@@ -67,6 +67,7 @@
 | 9 | [regex101](https://regex101.com/) | 正则表达式在线测试与调试，支持多语言语法及详细解释 |
 | 10 | [Hoppscotch](https://hoppscotch.io/) | 开源 API 开发生态系统，Postman 的开源替代品，支持 Web/桌面/CLI |
 | 11 | [readme.so](https://readme.so/) | 在线 README 编辑器，提供丰富的模板快速生成美观的项目文档 |
+| 12 | [Can I Use](https://caniuse.com/) | 浏览器兼容性查询，检查 HTML/CSS/JS 特性的浏览器支持情况 |
 
 ## 编程学习 & 综合资源
 
