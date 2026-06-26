@@ -69,6 +69,7 @@
 | 11 | [readme.so](https://readme.so/) | 在线 README 编辑器，提供丰富的模板快速生成美观的项目文档 |
 | 12 | [Can I Use](https://caniuse.com/) | 浏览器兼容性查询，检查 HTML/CSS/JS 特性的浏览器支持情况 |
 | 13 | [db-fiddle](https://dbfiddle.uk/) | 在线 SQL 游乐场，支持 MySQL/PostgreSQL/SQL Server/SQLite 等多种数据库引擎，无需安装即可编写和分享 SQL 查询 |
+| 14 | [quicktype](https://quicktype.io/) | 粘贴 JSON 自动生成 TypeScript/Go/Rust/Python 等十余种语言的类型定义代码 |
 
 ## 编程学习 & 综合资源
 
