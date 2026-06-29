@@ -71,6 +71,7 @@
 | 13 | [db-fiddle](https://dbfiddle.uk/) | 在线 SQL 游乐场，支持 MySQL/PostgreSQL/SQL Server/SQLite 等多种数据库引擎，无需安装即可编写和分享 SQL 查询 |
 | 14 | [quicktype](https://quicktype.io/) | 粘贴 JSON 自动生成 TypeScript/Go/Rust/Python 等十余种语言的类型定义代码 |
 | 15 | [Carbon](https://carbon.now.sh/) | 将源码生成精美截图，支持多种主题和语法高亮，适合分享代码到社交网络和博客 |
+| 16 | [Compiler Explorer](https://godbolt.org/) | 交互式在线编译器，实时查看 C++/Rust/Go 等代码的汇编输出，内置多种编译器版本和可视化工具 |
 
 ## 编程学习 & 综合资源
 
