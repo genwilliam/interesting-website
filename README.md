@@ -73,6 +73,7 @@
 | 15 | [Carbon](https://carbon.now.sh/) | 将源码生成精美截图，支持多种主题和语法高亮，适合分享代码到社交网络和博客 |
 | 16 | [Compiler Explorer](https://godbolt.org/) | 交互式在线编译器，实时查看 C++/Rust/Go 等代码的汇编输出，内置多种编译器版本和可视化工具 |
 | 17 | [CyberChef](https://cyberchef.org/) | 网络瑞士军刀，提供编码解码、加密解密、哈希校验、时间戳转换等数百种数据格式处理工具 |
+| 18 | [BundlePhobia](https://bundlephobia.com/) | 分析 npm 包对前端打包体积的影响，在安装前了解其 minified 和 gzip 大小 |
 
 ## 编程学习 & 综合资源
 
