@@ -74,6 +74,7 @@
 | 16 | [Compiler Explorer](https://godbolt.org/) | 交互式在线编译器，实时查看 C++/Rust/Go 等代码的汇编输出，内置多种编译器版本和可视化工具 |
 | 17 | [CyberChef](https://cyberchef.org/) | 网络瑞士军刀，提供编码解码、加密解密、哈希校验、时间戳转换等数百种数据格式处理工具 |
 | 18 | [BundlePhobia](https://bundlephobia.com/) | 分析 npm 包对前端打包体积的影响，在安装前了解其 minified 和 gzip 大小 |
+| 19 | [crontab.guru](https://crontab.guru/) | Cron 表达式编辑器，可视化编辑和验证定时任务调度规则，附常用示例速查 |
 
 ## 编程学习 & 综合资源
 
