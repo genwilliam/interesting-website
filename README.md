@@ -89,6 +89,7 @@
 | 7 | [科技爱好者周刊](https://github.com/ruanyf/weekly) | 阮一峰的技术周刊 |
 | 8 | [roadmap.sh](https://roadmap.sh/) | 开发者学习路线图，涵盖各技术栈的成长路径 |
 | 9 | [Learn X in Y Minutes](https://learnxinyminutes.com/) | 社区驱动的编程语言速查，几分钟快速了解一门语言的核心语法 |
+| 10 | [LeetCode](https://leetcode.com/) | 最流行的算法与面试刷题平台，支持多种语言在线编程，附社区讨论和官方题解 |
 
 ## 电子书 & 阅读
 
