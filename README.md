@@ -75,6 +75,7 @@
 | 17 | [CyberChef](https://cyberchef.org/) | 网络瑞士军刀，提供编码解码、加密解密、哈希校验、时间戳转换等数百种数据格式处理工具 |
 | 18 | [BundlePhobia](https://bundlephobia.com/) | 分析 npm 包对前端打包体积的影响，在安装前了解其 minified 和 gzip 大小 |
 | 19 | [crontab.guru](https://crontab.guru/) | Cron 表达式编辑器，可视化编辑和验证定时任务调度规则，附常用示例速查 |
+| 20 | [drawDB](https://www.drawdb.app/) | 免费开源的在线数据库 ER 图编辑器，可视化设计表结构并直接生成 SQL DDL 脚本，支持 MySQL/PostgreSQL/SQLite 等多种数据库 |
 
 ## 编程学习 & 综合资源
 
