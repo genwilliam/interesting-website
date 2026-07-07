@@ -77,6 +77,7 @@
 | 19 | [crontab.guru](https://crontab.guru/) | Cron 表达式编辑器，可视化编辑和验证定时任务调度规则，附常用示例速查 |
 | 20 | [drawDB](https://www.drawdb.app/) | 免费开源的在线数据库 ER 图编辑器，可视化设计表结构并直接生成 SQL DDL 脚本，支持 MySQL/PostgreSQL/SQLite 等多种数据库 |
 | 21 | [Mermaid Live Editor](https://mermaid.live/) | 在线 Mermaid 图表编辑器，使用 Markdown 风格的文本语法实时生成流程图、时序图、类图等十余种专业图表，支持导出 SVG 和 PNG |
+| 22 | [ShellCheck](https://www.shellcheck.net/) | Shell 脚本静态分析工具，自动发现 Bash/Sh 脚本中的语法错误、常见陷阱和安全问题，支持在线使用和集成到 CI |
 
 ## 编程学习 & 综合资源
 
