@@ -79,6 +79,7 @@
 | 21 | [Mermaid Live Editor](https://mermaid.live/) | 在线 Mermaid 图表编辑器，使用 Markdown 风格的文本语法实时生成流程图、时序图、类图等十余种专业图表，支持导出 SVG 和 PNG |
 | 22 | [ShellCheck](https://www.shellcheck.net/) | Shell 脚本静态分析工具，自动发现 Bash/Sh 脚本中的语法错误、常见陷阱和安全问题，支持在线使用和集成到 CI |
 | 23 | [CodePen](https://codepen.io/) | 在线 HTML/CSS/JS 代码编辑器与前端社区，提供实时预览和丰富的 UI 灵感，适合快速原型设计和代码分享 |
+| 24 | [Public APIs](https://github.com/public-apis/public-apis) | 社区维护的免费公共 API 合集，涵盖动物、天气、金融、AI 等数十个分类，开发原型和副项目的 API 宝库 |
 
 ## 编程学习 & 综合资源
 
