@@ -121,6 +121,7 @@
 | 1 | [diagrams.net](https://app.diagrams.net/) | 在线流程图/架构图绘制 |
 | 2 | [Excalidraw](https://excalidraw.com/) | 手绘风格白板工具 |
 | 3 | [Squoosh](https://squoosh.app/) | Google Chrome 团队出品的在线图片压缩工具，支持 WebP/AVIF 等现代格式，所有处理在浏览器本地完成，不上传任何图片 |
+| 4 | [Svgl](https://svgl.app/) | 收录 1000+ 知名品牌的 SVG 矢量图标库，支持直接复制和下载，适合在网站、文档和原型中嵌入品牌 Logo |
 
 ## 实用工具
 
