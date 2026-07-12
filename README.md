@@ -120,6 +120,7 @@
 |---|------|------|
 | 1 | [diagrams.net](https://app.diagrams.net/) | 在线流程图/架构图绘制 |
 | 2 | [Excalidraw](https://excalidraw.com/) | 手绘风格白板工具 |
+| 3 | [Squoosh](https://squoosh.app/) | Google Chrome 团队出品的在线图片压缩工具，支持 WebP/AVIF 等现代格式，所有处理在浏览器本地完成，不上传任何图片 |
 
 ## 实用工具
 
