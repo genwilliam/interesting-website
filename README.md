@@ -35,6 +35,12 @@
 | 4 | [Cloudflare: 什么是 DNS](https://www.cloudflare.com/learning/dns/what-is-dns/) | DNS 科普 |
 | 5 | [JS 任务、微任务、队列和日程安排](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) | 浏览器事件循环详解 |
 
+## 系统设计
+
+| # | 链接 | 说明 |
+|---|------|------|
+| 1 | [系统设计面试准备](https://github.com/donnemartin/system-design-primer) | 学习设计可扩展系统的完整指南，涵盖分布式系统核心概念、CAP 理论、一致性哈希等，280K+ Star 的经典仓库 |
+
 ## 算法与数据结构
 
 | # | 链接 | 说明 |
