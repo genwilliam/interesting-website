@@ -88,6 +88,8 @@
 | 24 | [Public APIs](https://github.com/public-apis/public-apis) | 社区维护的免费公共 API 合集，涵盖动物、天气、金融、AI 等数十个分类，开发原型和副项目的 API 宝库 |
 | 25 | [StackBlitz](https://stackblitz.com/) | 基于浏览器的即时开发环境，使用 WebContainers 技术在线运行全栈 Node.js 应用，无需本地配置即可快速原型开发和分享代码 |
 | 26 | [AST Explorer](https://astexplorer.net/) | 在线抽象语法树可视化工具，支持 JS/TS/Go/Rust/CSS/HTML 等十余种语言的实时 AST 解析，适合学习编译器原理和编写代码转换插件 |
+| 27 | [jwt.io](https://jwt.io/) | JSON Web Token 在线调试器，Auth0 出品，支持解码、验证签名和生成 JWT Token，开发认证系统的必备工具 |
+| 28 | [Webhook.site](https://webhook.site/) | Webhook 和 HTTP 请求在线测试工具，生成唯一 URL 实时捕获和检视请求内容，支持自定义响应和自动化脚本处理 |
 
 ## 编程学习 & 综合资源
 
