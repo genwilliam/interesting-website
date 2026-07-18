@@ -133,6 +133,7 @@
 | 3 | [Squoosh](https://squoosh.app/) | Google Chrome 团队出品的在线图片压缩工具，支持 WebP/AVIF 等现代格式，所有处理在浏览器本地完成，不上传任何图片 |
 | 4 | [Svgl](https://svgl.app/) | 收录 1000+ 知名品牌的 SVG 矢量图标库，支持直接复制和下载，适合在网站、文档和原型中嵌入品牌 Logo |
 | 5 | [Figma](https://www.figma.com/) | 业界标准 UI/UX 设计协作工具，开发者可直接查看设计稿细节、导出切图资产、获取 CSS/代码片段 |
+| 6 | [Iconify](https://iconify.design/) | 统一图标框架，在线搜索 200,000+ 开源图标，支持 150+ 图标集（Material、Font Awesome、Tabler 等），可直接复制 SVG 或集成到前端框架 |
 
 ## 实用工具
 
