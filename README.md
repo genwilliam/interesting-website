@@ -91,6 +91,7 @@
 | 27 | [jwt.io](https://jwt.io/) | JSON Web Token 在线调试器，Auth0 出品，支持解码、验证签名和生成 JWT Token，开发认证系统的必备工具 |
 | 28 | [Webhook.site](https://webhook.site/) | Webhook 和 HTTP 请求在线测试工具，生成唯一 URL 实时捕获和检视请求内容，支持自定义响应和自动化脚本处理 |
 | 29 | [ngrok](https://ngrok.com/) | 安全内网穿透工具，一键将本地开发服务暴露到公网，支持 HTTPS 和 Webhook 调试，无需部署即可分享和测试本地应用 |
+| 30 | [Shields.io](https://shields.io/) | 开源项目徽章生成服务，为 README 添加版本号、许可证、CI 状态等动态徽章，GitHub 上几乎所有项目的标配工具 |
 
 ## 编程学习 & 综合资源
 
