@@ -94,6 +94,7 @@
 | 30 | [Shields.io](https://shields.io/) | 开源项目徽章生成服务，为 README 添加版本号、许可证、CI 状态等动态徽章，GitHub 上几乎所有项目的标配工具 |
 | 31 | [Tiny Helpers](https://tiny-helpers.dev/) | 免费的单用途在线开发工具合集，由 Stefan Judis 维护，涵盖代码格式化、图片优化、颜色生成等百余种日常开发小工具 |
 | 32 | [WakaTime](https://wakatime.com/) | 自动编程时间追踪工具，集成 VS Code/JetBrains/Vim/Emacs 等主要 IDE，可视化展示各语言、项目和文件的编码时长统计 |
+| 33 | [Supabase](https://supabase.com/) | 开源 Firebase 替代品，提供托管 PostgreSQL、实时订阅、身份认证、存储和 Edge Functions，支持 REST/GraphQL API 自动生成，前后端开发者的一站式后端平台 |
 
 ## 编程学习 & 综合资源
 
