@@ -114,6 +114,7 @@
 | 11 | [Refactoring Guru](https://refactoring.guru/) | 设计模式与代码重构指南，通过图解和代码示例深入讲解设计模式、SOLID 原则和重构技巧，支持多语言代码示例 |
 | 12 | [Python Tutor](https://pythontutor.com/) | 在线代码可视化工具，逐行执行并展示变量内存变化，支持 Python/Java/JS/C/C++/Ruby 等语言，适合理解递归、指针和数据结构 |
 | 13 | [Exercism](https://exercism.org/) | 免费编程练习平台，支持 74+ 种编程语言，提供概念练习、渐进式学习和真人导师 Mentorship，从实践中掌握一门新语言 |
+| 14 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT 出品的实用计算机技能课程，教授传统 CS 教育中缺失的 Shell、Vim、Git、调试、自动化等日常开发必备技能 |
 
 ## 电子书 & 阅读
 
