@@ -96,6 +96,7 @@
 | 32 | [WakaTime](https://wakatime.com/) | 自动编程时间追踪工具，集成 VS Code/JetBrains/Vim/Emacs 等主要 IDE，可视化展示各语言、项目和文件的编码时长统计 |
 | 33 | [Supabase](https://supabase.com/) | 开源 Firebase 替代品，提供托管 PostgreSQL、实时订阅、身份认证、存储和 Edge Functions，支持 REST/GraphQL API 自动生成，前后端开发者的一站式后端平台 |
 | 34 | [IT Tools](https://it-tools.tech/) | 集合上百种在线开发者工具的开源网站，涵盖编码转换、加密解密、格式化、网络调试、文本处理等多种日常开发场景，自部署友好，30K+ Star |
+| 35 | [npmtrends](https://npmtrends.com/) | 对比 npm 包下载量趋势，支持多包并排比较和历史数据回溯，帮助开发者选择最活跃、最可靠的依赖库 |
 
 ## 编程学习 & 综合资源
 
