@@ -98,6 +98,7 @@
 | 34 | [IT Tools](https://it-tools.tech/) | 集合上百种在线开发者工具的开源网站，涵盖编码转换、加密解密、格式化、网络调试、文本处理等多种日常开发场景，自部署友好，30K+ Star |
 | 35 | [npmtrends](https://npmtrends.com/) | 对比 npm 包下载量趋势，支持多包并排比较和历史数据回溯，帮助开发者选择最活跃、最可靠的依赖库 |
 | 36 | [Programming Fonts](https://www.programmingfonts.org/) | 在线浏览和对比上百种等宽编程字体，支持实时预览代码渲染效果，帮助开发者找到最适合自己的编程字体 |
+| 37 | [Devhints](https://devhints.io/) | 200 余份开发者速查表合集，由 rstacruz 维护，涵盖所有主流语言、框架和 CLI 工具的简洁美观速查页 |
 
 ## 编程学习 & 综合资源
 
