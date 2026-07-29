@@ -120,6 +120,7 @@
 | 13 | [Exercism](https://exercism.org/) | 免费编程练习平台，支持 74+ 种编程语言，提供概念练习、渐进式学习和真人导师 Mentorship，从实践中掌握一门新语言 |
 | 14 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT 出品的实用计算机技能课程，教授传统 CS 教育中缺失的 Shell、Vim、Git、调试、自动化等日常开发必备技能 |
 | 15 | [daily.dev](https://daily.dev/) | 个性化开发者新闻聚合平台，根据兴趣推荐技术文章、AI 工具和开源动态，每日百万开发者使用 |
+| 16 | [Killercoda](https://killercoda.com/) | 浏览器内交互式学习环境，无需本地安装即可在线学习 Kubernetes、Linux、DevOps 等技术的实操场景 |
 
 ## 电子书 & 阅读
 
