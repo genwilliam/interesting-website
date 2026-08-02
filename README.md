@@ -102,6 +102,7 @@
 | 38 | [httpbin.org](https://httpbin.org/) | HTTP 请求与响应调试服务，支持多种 HTTP 方法、状态码和延迟模拟，测试 API 客户端和调试 Webhook 的必备在线工具 |
 | 39 | [Mockaroo](https://mockaroo.com/) | 随机数据生成器和 API Mock 工具，快速生成 CSV/JSON/SQL/Excel 格式的逼真测试数据，支持自定义字段类型和规则，开发和测试阶段的必备工具 |
 | 40 | [NGINXConfig](https://nginxconfig.io/) | DigitalOcean 出品的 Nginx 配置生成器，图形化勾选 HTTPS、反向代理、安全响应头等选项，自动生成最佳实践的配置文件并打包下载 |
+| 41 | [curlconverter](https://curlconverter.com/) | 将 curl 命令一键转换为 Python/JavaScript/Go/Rust 等十余种语言的请求代码，复现接口调用的利器 |
 
 ## 编程学习 & 综合资源
 
