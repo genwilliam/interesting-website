@@ -14,6 +14,7 @@
 | 4 | [Linux 教程](https://ryanstutorials.net/linuxtutorial/) | 入门友好的 Linux 教程 |
 | 5 | [cheat.sh](https://cheat.sh/) | 命令行速查表，curl 即可获取任何命令的用法示例 |
 | 6 | [explainshell.com](https://explainshell.com/) | 输入命令行，自动解析并匹配每个参数对应的 man 帮助文本 |
+| 7 | [tldr pages](https://tldr.sh/) | 社区维护的命令行速查手册，简化版 man 手册，快速查看常用命令的实用示例，支持多平台客户端 |
 
 ## Go 语言
 
@@ -46,6 +47,7 @@
 | # | 链接 | 说明 |
 |---|------|------|
 | 1 | [VisuAlgo](https://visualgo.net/en) | 新加坡国立大学出品，通过动画可视化数据结构和算法 |
+| 2 | [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) | 算法复杂度速查表，涵盖常见数据结构操作与排序算法的 Big-O 时间/空间复杂度对比 |
 
 ## 大模型 & AI
 
