@@ -106,6 +106,7 @@
 | 40 | [NGINXConfig](https://nginxconfig.io/) | DigitalOcean 出品的 Nginx 配置生成器，图形化勾选 HTTPS、反向代理、安全响应头等选项，自动生成最佳实践的配置文件并打包下载 |
 | 41 | [curlconverter](https://curlconverter.com/) | 将 curl 命令一键转换为 Python/JavaScript/Go/Rust 等十余种语言的请求代码，复现接口调用的利器 |
 | 42 | [ray.so](https://ray.so/) | Raycast 出品的代码美化工具，一键将代码生成美观的分享图片，支持多种语法高亮主题、明暗窗口和行号显示，适合用来制作代码截图 |
+| 43 | [grep.app](https://grep.app/) | 跨数百万个 GitHub 仓库的代码搜索引擎，Vercel 出品，可搜索代码、文件和路径，快速查找开源项目中的实现示例 |
 
 ## 编程学习 & 综合资源
 
