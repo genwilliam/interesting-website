@@ -15,6 +15,7 @@
 | 5 | [cheat.sh](https://cheat.sh/) | 命令行速查表，curl 即可获取任何命令的用法示例 |
 | 6 | [explainshell.com](https://explainshell.com/) | 输入命令行，自动解析并匹配每个参数对应的 man 帮助文本 |
 | 7 | [tldr pages](https://tldr.sh/) | 社区维护的命令行速查手册，简化版 man 手册，快速查看常用命令的实用示例，支持多平台客户端 |
+| 8 | [wttr.in](https://wttr.in/) | 终端天气服务，curl wttr.in 即可查看当前天气和三天预报，支持 ANSI 彩色输出及 JSON/PNG 等多种格式 |
 
 ## Go 语言
 
