@@ -60,6 +60,7 @@
 | 4 | [开源大模型食用指南](https://github.com/datawhalechina/self-llm) | 自部署 LLM 指南 |
 | 5 | [动手学大模型](https://github.com/Lordog/dive-into-llms) | 从零动手实践大模型 |
 | 6 | [OpenClaw](https://openclaw.ai/) | AI 助手框架 |
+| 7 | [Hugging Face](https://huggingface.co/) | AI 开源社区与模型托管平台，托管 40 万+ 模型和数据集，提供 Transformers 库、推理 API 和在线 Demo 空间，LLM 开发者的必备站点 |
 
 ## 开发工具 & 资源
 
