@@ -132,6 +132,7 @@
 | 15 | [daily.dev](https://daily.dev/) | 个性化开发者新闻聚合平台，根据兴趣推荐技术文章、AI 工具和开源动态，每日百万开发者使用 |
 | 16 | [Killercoda](https://killercoda.com/) | 浏览器内交互式学习环境，无需本地安装即可在线学习 Kubernetes、Linux、DevOps 等技术的实操场景 |
 | 17 | [HelloGitHub](https://hellogithub.com/) | 每月精选 GitHub 上有趣、入门级开源项目的月刊社区，涵盖开发利器、开源书籍、教程等，自 2016 年起持续更新 |
+| 18 | [freeCodeCamp](https://www.freecodecamp.org/) | 全球知名的免费编程学习平台，提供交互式课程、项目实战和免费认证证书，涵盖 Web 开发、数据科学、机器学习等方向 |
 
 ## 电子书 & 阅读
 
