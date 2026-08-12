@@ -168,6 +168,7 @@
 | 1 | [minmail — 临时邮箱](https://minmail.app/) | 一次性临时邮箱服务 |
 | 2 | [接码平台](https://hero-sms.com/cn) | 在线接收短信验证码 |
 | 3 | [Cloak Browser](https://github.com/CloakHQ/cloakbrowser) | 绕过所有机器人检测的 Chromium |
+| 4 | [Raycast](https://www.raycast.com/) | 专为 macOS 设计的效率启动器，Spotlight/Alfred 的现代替代品，支持快速启动应用、窗口管理、剪贴板历史和丰富的扩展商店，开发者可用 TypeScript + React 编写自定义工作流扩展 |
 
 ---
 
