@@ -111,6 +111,7 @@
 | 43 | [grep.app](https://grep.app/) | 跨数百万个 GitHub 仓库的代码搜索引擎，Vercel 出品，可搜索代码、文件和路径，快速查找开源项目中的实现示例 |
 | 44 | [Try It Online](https://tio.run/) | 在线解释器合集，支持数百种实用与娱乐编程语言，无需安装配置即可在浏览器中运行代码片段 |
 | 45 | [MDN Web Docs](https://developer.mozilla.org/) | Web 开发权威文档，Mozilla 出品，覆盖 HTML/CSS/JavaScript 及 Web API 的完整参考、教程和兼容性数据，前端开发者必备 |
+| 46 | [GitIngest](https://gitingest.com/) | 将任意 GitHub 仓库一键转换为 LLM 友好的文本摘要，把 URL 中的 hub 换成 ingest 即可直接获取，方便快速把开源项目喂给 AI 分析 |
 
 ## 编程学习 & 综合资源
 
