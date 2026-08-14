@@ -112,6 +112,7 @@
 | 44 | [Try It Online](https://tio.run/) | 在线解释器合集，支持数百种实用与娱乐编程语言，无需安装配置即可在浏览器中运行代码片段 |
 | 45 | [MDN Web Docs](https://developer.mozilla.org/) | Web 开发权威文档，Mozilla 出品，覆盖 HTML/CSS/JavaScript 及 Web API 的完整参考、教程和兼容性数据，前端开发者必备 |
 | 46 | [GitIngest](https://gitingest.com/) | 将任意 GitHub 仓库一键转换为 LLM 友好的文本摘要，把 URL 中的 hub 换成 ingest 即可直接获取，方便快速把开源项目喂给 AI 分析 |
+| 47 | [choosealicense.com](https://choosealicense.com/) | GitHub 官方开源许可证选择指南，通过问答方式帮助开发者挑选合适的开源许可证，并附各许可证的完整条款对比 |
 
 ## 编程学习 & 综合资源
 
