@@ -17,6 +17,7 @@
 | 7 | [tldr pages](https://tldr.sh/) | 社区维护的命令行速查手册，简化版 man 手册，快速查看常用命令的实用示例，支持多平台客户端 |
 | 8 | [wttr.in](https://wttr.in/) | 终端天气服务，curl wttr.in 即可查看当前天气和三天预报，支持 ANSI 彩色输出及 JSON/PNG 等多种格式 |
 | 9 | [GTFOBins](https://gtfobins.github.io/) | 收录 Unix/Linux 可执行程序滥用技巧的速查站，涵盖提权、逃逸受限 Shell、反弹 Shell、文件传输等场景，安全研究、CTF 和渗透测试必备 |
+| 10 | [asciinema](https://asciinema.org/) | 终端会话录制与分享工具，以轻量文本格式记录终端操作并在线回放，支持嵌入网页和自托管，演示 CLI 工具与分享命令行操作的首选 |
 
 ## Go 语言
 
