@@ -63,6 +63,7 @@
 | 5 | [动手学大模型](https://github.com/Lordog/dive-into-llms) | 从零动手实践大模型 |
 | 6 | [OpenClaw](https://openclaw.ai/) | AI 助手框架 |
 | 7 | [Hugging Face](https://huggingface.co/) | AI 开源社区与模型托管平台，托管 40 万+ 模型和数据集，提供 Transformers 库、推理 API 和在线 Demo 空间，LLM 开发者的必备站点 |
+| 8 | [Ollama](https://ollama.com/) | 一键在本地运行 Llama/DeepSeek/Qwen/Gemma 等开源大模型，自带模型库管理和 OpenAI 兼容 API，免去 GPU 云服务的折腾 |
 
 ## 开发工具 & 资源
 
