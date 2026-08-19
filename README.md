@@ -38,6 +38,7 @@
 | 3 | [Promise A+ 规范](https://promisesaplus.com/) | Promise 规范原文 |
 | 4 | [Cloudflare: 什么是 DNS](https://www.cloudflare.com/learning/dns/what-is-dns/) | DNS 科普 |
 | 5 | [JS 任务、微任务、队列和日程安排](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) | 浏览器事件循环详解 |
+| 6 | [OSTEP（操作系统导论）](https://ostep.org/) | 免费在线操作系统教材，三位教授合著，深入浅出讲解虚拟化、并发与持久化三大主题并附配套项目，被全球多所大学采用 |
 
 ## 系统设计
 
