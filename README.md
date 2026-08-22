@@ -143,6 +143,7 @@
 | 18 | [freeCodeCamp](https://www.freecodecamp.org/) | 全球知名的免费编程学习平台，提供交互式课程、项目实战和免费认证证书，涵盖 Web 开发、数据科学、机器学习等方向 |
 | 19 | [SQLBolt](https://sqlbolt.com/) | 交互式 SQL 学习网站，在浏览器中边学边练，从 SELECT 基础到 JOIN 多表查询共 18 节课，配有即时在线练习和答案校验 |
 | 20 | [CodeCrafters](https://codecrafters.io/) | 最硬核的编程挑战平台，亲手从零实现 Redis、Git、SQLite、Docker 等日常工具，支持多种语言并在 IDE 中完成，通过自动化测试逐步构建 |
+| 21 | [Advent of Code](https://adventofcode.com/) | 每年 12 月 1 日至 25 日发布的编程解谜挑战，每日一道双关卡算法题，可用任意语言参与，是经典算法练习与学习新语言的平台 |
 
 ## 电子书 & 阅读
 
