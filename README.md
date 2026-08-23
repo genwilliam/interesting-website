@@ -66,6 +66,7 @@
 | 7 | [Hugging Face](https://huggingface.co/) | AI 开源社区与模型托管平台，托管 40 万+ 模型和数据集，提供 Transformers 库、推理 API 和在线 Demo 空间，LLM 开发者的必备站点 |
 | 8 | [Ollama](https://ollama.com/) | 一键在本地运行 Llama/DeepSeek/Qwen/Gemma 等开源大模型，自带模型库管理和 OpenAI 兼容 API，免去 GPU 云服务的折腾 |
 | 9 | [DeepWiki](https://deepwiki.com/) | Cognition（Devin 团队）出品，为任意 GitHub 仓库自动生成可交互的 AI 百科文档，像 Deep Research 一样对代码库提问，快速理解陌生开源项目 |
+| 10 | [OpenRouter](https://openrouter.ai/) | 统一 LLM API 网关，一个 API Key 即可调用 OpenAI/Anthropic/Google 等 500+ 大模型，支持自动故障切换、统一计费与用量统计，免去逐个接入各家供应商的麻烦 |
 
 ## 开发工具 & 资源
 
