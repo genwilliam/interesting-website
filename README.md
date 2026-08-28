@@ -28,6 +28,7 @@
 | 3 | [Go 语言圣经（中文版）](http://books.studygolang.com/gopl-zh/) | 《The Go Programming Language》中文翻译 |
 | 4 | [Go 语言圣经（深入学习）](http://books.studygolang.com/gopl-zh/ch8/ch8-05.html) | Go 语言圣经并发章节 |
 | 5 | [learn-go-with-tests](https://studygolang.gitbook.io/learn-go-with-tests) | 通过测试学 Go |
+| 6 | [Go by Example](https://gobyexample.com/) | 通过带注释的示例程序学习 Go，从 Hello World 到 Goroutine、Channel 等高级特性，附中文版（gobyexample-cn.github.io） |
 
 ## 计算机基础 & 网络
 
