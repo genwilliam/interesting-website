@@ -18,6 +18,7 @@
 | 8 | [wttr.in](https://wttr.in/) | 终端天气服务，curl wttr.in 即可查看当前天气和三天预报，支持 ANSI 彩色输出及 JSON/PNG 等多种格式 |
 | 9 | [GTFOBins](https://gtfobins.github.io/) | 收录 Unix/Linux 可执行程序滥用技巧的速查站，涵盖提权、逃逸受限 Shell、反弹 Shell、文件传输等场景，安全研究、CTF 和渗透测试必备 |
 | 10 | [asciinema](https://asciinema.org/) | 终端会话录制与分享工具，以轻量文本格式记录终端操作并在线回放，支持嵌入网页和自托管，演示 CLI 工具与分享命令行操作的首选 |
+| 11 | [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) | 通过 SSH 闯关式 Wargame 实战学习 Linux 命令行与系统安全，从基础命令到权限、文件系统、网络探测逐级进阶，网络安全与运维入门经典 |
 
 ## Go 语言
 
