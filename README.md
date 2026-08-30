@@ -156,6 +156,7 @@
 | # | 链接 | 说明 |
 |---|------|------|
 | 1 | [经典电子书合集](https://github.com/kska32/ebooks) | 历史、政治、心理、哲学、数学、计算机经典电子书 |
+| 2 | [免费编程书籍合集](https://github.com/EbookFoundation/free-programming-books) | GitHub 最受欢迎的免费编程书籍目录，收录数千本覆盖各语言与领域的自由书籍、课程与教程，支持在线搜索，含大量中文资源，300K+ Star |
 
 ## 免费资源
 
