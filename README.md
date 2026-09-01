@@ -125,6 +125,7 @@
 | 47 | [choosealicense.com](https://choosealicense.com/) | GitHub 官方开源许可证选择指南，通过问答方式帮助开发者挑选合适的开源许可证，并附各许可证的完整条款对比 |
 | 48 | [Decompiler Explorer](https://dogbolt.org/) | 在线反编译器对比工具，上传二进制文件即可同时对比 Ghidra、IDA、RetDec 等多种反编译器的 C 语言还原结果，逆向工程必备 |
 | 49 | [PublicWWW](https://publicwww.com/) | 网页源码搜索引擎，索引 4.6 亿+ 网站，可搜索任意页面 HTML/JS/CSS 源码片段，支持正则表达式查询，快速查找哪些网站用了特定库或脚本，安全研究与竞品分析的利器 |
+| 50 | [Can I email](https://www.caniemail.com/) | 邮件客户端 HTML/CSS 特性支持查询表，caniuse 的邮件版，覆盖 300+ 特性在各邮件客户端（Gmail、Outlook、Apple Mail 等）中的支持情况，开发 HTML 邮件的必备参考 |
 
 ## 编程学习 & 综合资源
 
