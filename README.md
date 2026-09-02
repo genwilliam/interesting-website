@@ -56,6 +56,7 @@
 |---|------|------|
 | 1 | [VisuAlgo](https://visualgo.net/en) | 新加坡国立大学出品，通过动画可视化数据结构和算法 |
 | 2 | [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) | 算法复杂度速查表，涵盖常见数据结构操作与排序算法的 Big-O 时间/空间复杂度对比 |
+| 3 | [Hello 算法](https://github.com/krahets/hello-algo) | 动画图解、一键运行的数据结构与算法开源教程，Krahets 出品，覆盖从数组链表到图、搜索、动态规划等完整知识地图，示例代码支持 Python/Java/C++/Go 等 12 种语言，GitHub 100K+ Star，算法入门首选 |
 
 ## 大模型 & AI
 
