@@ -42,6 +42,7 @@
 | 5 | [JS 任务、微任务、队列和日程安排](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) | 浏览器事件循环详解 |
 | 6 | [OSTEP（操作系统导论）](https://ostep.org/) | 免费在线操作系统教材，三位教授合著，深入浅出讲解虚拟化、并发与持久化三大主题并附配套项目，被全球多所大学采用 |
 | 7 | [Database of Databases](https://dbdb.io/) | 卡内基梅隆大学数据库组出品的数据库系统百科全书，系统收录 800+ 数据库引擎的技术特性、架构与历史沿革，支持多维度对比筛选，学习数据库选型与内部原理的权威参考 |
+| 8 | [Crafting Interpreters](https://craftinginterpreters.com/) | 免费在线的编译原理经典书，Google 工程师 Robert Nystrom 手把手用 Java 和 C 从零实现两版完整解释器，覆盖词法/语法分析、字节码虚拟机与垃圾回收等核心知识，理解编程语言内部机制的必读之作 |
 
 ## 系统设计
 
