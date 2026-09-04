@@ -128,6 +128,7 @@
 | 48 | [Decompiler Explorer](https://dogbolt.org/) | 在线反编译器对比工具，上传二进制文件即可同时对比 Ghidra、IDA、RetDec 等多种反编译器的 C 语言还原结果，逆向工程必备 |
 | 49 | [PublicWWW](https://publicwww.com/) | 网页源码搜索引擎，索引 4.6 亿+ 网站，可搜索任意页面 HTML/JS/CSS 源码片段，支持正则表达式查询，快速查找哪些网站用了特定库或脚本，安全研究与竞品分析的利器 |
 | 50 | [Can I email](https://www.caniemail.com/) | 邮件客户端 HTML/CSS 特性支持查询表，caniuse 的邮件版，覆盖 300+ 特性在各邮件客户端（Gmail、Outlook、Apple Mail 等）中的支持情况，开发 HTML 邮件的必备参考 |
+| 51 | [Star History](https://star-history.com/) | GitHub 开源项目 Star 增长趋势可视化工具，支持多仓库对比、查看历史增长曲线、识别刷星与项目热度变化，选型开源库和判断项目活跃度的利器 |
 
 ## 编程学习 & 综合资源
 
